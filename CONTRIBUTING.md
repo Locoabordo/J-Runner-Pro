@@ -5,7 +5,7 @@ These examples will show the guidelines for contributing. Please try to follow t
 ## Basic Guidelines:
 - Try to keep a consistent formatting style, preferably the same as other code, this helps keeping code easy to read!
 - Do not include any copyrighted software or intellectual property
-- Test your work before committing/submitting a pull request
+x Test your work before committing/submitting a pull request
 - Changes must support at least Windows Vista or later, Windows XP support is optional
 
 ## Forks, Branches, and Merging
